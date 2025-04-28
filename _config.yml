@@ -22,7 +22,7 @@ repository               : "AnderLiang/AnderLiang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "avator.png"
   name             : "Zhongxuan Liang"
   pronouns         : # example: "she/her"  
   bio              : "I am a Ph.D. candidate at the University of Science and Technology of China (USTC), starting in 2024. My research focuses on computer graphics."
