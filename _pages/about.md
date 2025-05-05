@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "ZhonXuan Liang - Academic Homepage"
+title: "ZhongXuan Liang - Academic Homepage"
 author_profile: true
 redirect_from: 
   - /about/
