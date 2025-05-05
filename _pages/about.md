@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Hi, I'm **ZhonXuan Liang**  
+# Hi, I'm **ZhongXuan Liang**  
 **Ph.D. Candidate in Computer Graphics**  
 *University of Science and Technology of China (USTC)*  
 *Since 2024*  
@@ -17,18 +17,6 @@ redirect_from:
 ## Research Highlights  
 - **First-author paper accepted by SIGGRAPH 2025**  
   *"Field Smoothness-Controlled Partition for Quadrangulation"*  
-  - Proposes novel partition method for reliable feature-aligned quadrangulation  
-  - Core insight: Smooth streamlines distant from singularities are more suitable as patch boundaries  
-  - Key innovations:  
-    • Singularities enclosed within patches for straighter boundaries  
-    • New patch quality control mechanism maintaining boundaries in high smoothness regions  
-    • Practical algorithm combining iterative path tracing and path removal  
-  - Demonstrated effectiveness:  
-    • Generates quality quad meshes on massive test datasets  
-    • Compared with SOTA methods:  
-      - 30%+ quality improvement in quad meshes  
-      - Maintains similar reliability  
-
 ---
 
 ## Academic Journey  
