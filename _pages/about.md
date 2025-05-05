@@ -7,12 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-# Hi, I'm **ZhongXuan Liang**  
-**Ph.D. Candidate in Computer Graphics**  
-*University of Science and Technology of China (USTC)*  
-*Since 2024*  
-
----
 
 ## Research Highlights  
 - **First-author paper accepted by SIGGRAPH 2025**  
@@ -21,9 +15,9 @@ redirect_from:
 
 ## Academic Journey  
 
-### Ph.D. in Electronic Information (Computer Technology)  
+### Ph.D. Candidate in Electronic Information (Computer Technology)  
 *University of Science and Technology of China (USTC)* | *2024 - Present*  
-- Research Area: Geometry modeling in computer graphics  
+- Research Area: Geometry modeling in Computer Graphics  
 - Advisor: Xiao-Ming Fu 
 
 ### Algorithm Engineer  
