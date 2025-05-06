@@ -9,7 +9,7 @@ redirect_from:
 
 
 ## Publications
-- ** Zhongxuan Liang, Wei Du, and Xiao-Ming Fu. Field Smoothness-Controlled Partition for Quadrangulation. ACM Transactions on Graphics (Proc. SIGGRAPH), 44(4), 2025.**
+- **Zhongxuan Liang, Wei Du, and Xiao-Ming Fu. Field Smoothness-Controlled Partition for Quadrangulation. ACM Transactions on Graphics (Proc. SIGGRAPH), 44(4), 2025.**
 
 ---
 
