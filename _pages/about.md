@@ -8,17 +8,17 @@ redirect_from:
 ---
 
 
-## Research Highlights  
-- **First-author paper accepted by SIGGRAPH 2025**  
-  *"Field Smoothness-Controlled Partition for Quadrangulation"*  
+## Publications
+- **Field Smoothness-Controlled Partition for Quadrangulation**
+ Zhongxuan Liang, Wei Du, and Xiao-Ming Fu. Field Smoothness-Controlled Partition for Quadrangulation. ACM Transactions on Graphics (Proc. SIGGRAPH), 44(4), 2025.
 ---
 
-## Academic Journey  
+## Education and Work Experience 
 
 ### Ph.D. Candidate in Electronic Information (Computer Technology)  
 *University of Science and Technology of China (USTC)* | *2024 - Present*  
 - Research Area: Geometry modeling in Computer Graphics  
-- Advisor: Xiao-Ming Fu 
+- Advisor:  [Xiao-Ming Fu](URL "https://ustc-gcl-f.github.io/")
 
 ### Algorithm Engineer  
 *Tencent (Shenzhen)* | *2023 - 2024*  
@@ -35,18 +35,16 @@ redirect_from:
 ---
 
 ## Selected Honors  
-- SIGGRAPH 2025 Paper Acceptance (First Author)  
 - Anhui Provincial Outstanding Graduate (2022)  
 - HFUT Outstanding Graduate (2022)  
 
 ---
 
 ## Teaching Experience  
-**GAMES301 Course TA (Surface Parameterization)**  
+**Teaching Assistant | GAMES 301: Surface Parameterization​**  
 *USTC 2022*  
-- Designed practical assignments  
-- Mentored 50+ graduate students in mesh parameterization  
-
+- Designed practical assignments
+- ​​Conduct Q&A sessions​
 ---
 
 ## Technical Proficiencies  
