@@ -34,18 +34,16 @@ redirect_from:
 
 ---
 
+## Teaching Experience  
+**Teaching Assistant |​ [GAMES 301: Surface Parameterization](URL "http://staff.ustc.edu.cn/~renjiec/GAMES301/index.html")**
+- Designed practical assignments
+- ​​Conduct Q&A sessions​
+---
+
 ## Selected Honors  
 - Anhui Provincial Outstanding Graduate (2022)  
 - HFUT Outstanding Graduate (2022)  
 
----
-
-## Teaching Experience  
-**Teaching Assistant |​ [GAMES 301: Surface Parameterization](URL "http://staff.ustc.edu.cn/~renjiec/GAMES301/index.html")**
-
-*USTC 2022*  
-- Designed practical assignments
-- ​​Conduct Q&A sessions​
 ---
 
 ## Technical Proficiencies  
