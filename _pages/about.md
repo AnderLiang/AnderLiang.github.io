@@ -36,8 +36,8 @@ redirect_from:
 
 ## Teaching Experience  
 **Teaching Assistant |​ [GAMES 301: Surface Parameterization](URL "http://staff.ustc.edu.cn/~renjiec/GAMES301/index.html")**
-- Designed practical assignments
-- ​​Conduct Q&A sessions​
+- Designed practical assignments | Conduct Q&A sessions​
+
 ---
 
 ## Selected Honors  
