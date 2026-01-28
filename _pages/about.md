@@ -18,7 +18,7 @@ redirect_from:
 ### Ph.D. Candidate in Electronic Information (Computer Technology)  
 *University of Science and Technology of China (USTC)* | *2024 - Present*  
 - Research Area: Geometry modeling in Computer Graphics  
-- Advisor:  [Xiao-Ming Fu](URL "https://ustc-gcl-f.github.io/")
+- Advisor:  [Xiao-Ming Fu](URL "http://staff.ustc.edu.cn/~fuxm/")
 
 ### Algorithm Engineer  
 *Tencent (Shenzhen)* | *2023 - 2024*  
